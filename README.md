@@ -56,14 +56,6 @@
 <br/>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=beshakil&hide=HTML&langs_count=8&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-<br/><br/>
-<hr/>
-
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
@@ -94,7 +86,7 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/beshakil">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=beshakil&count_private=true&show_icons=true&theme=nightowl&rank_icon=github" alt="GitHub Stats" />
+          <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=beshakil&hide=HTML&langs_count=8&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
         </a>
       </p>
     </td>
