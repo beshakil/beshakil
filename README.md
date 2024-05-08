@@ -29,7 +29,7 @@
 
 # <img align="center" src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" /> About Me:
 - ✨ Student of life :)
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> I’m currently working on **a Nexjs Projects**
+- 👨‍💻 I’m currently working on **a Nexjs Projects**
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💬 Ask me about MERN stack and related technologies
 - ❤ Contributing to Open Source.
