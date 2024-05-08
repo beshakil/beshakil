@@ -65,12 +65,6 @@
 </div>
 
 <br/><br/>
-<h2 align="center">🐍 My Contributions 🐍</h2>
-  <br>
-<div align="center">
-<img  src="https://raw.githubusercontent.com/beshakil/beshakil/output/github-contribution-grid-snake.svg" alt="contribution graph" />
-   
-</div>
 <hr/>
 
  ![snake animation](https://github.com/beshakil/beshakil/blob/output/github-contribution-grid-snake2.svg)
