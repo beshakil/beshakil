@@ -59,10 +59,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=beshakil&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=beshakil&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=beshakil&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=beshakil&hide=HTML&langs_count=8&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <br/><br/>
 <hr/>
@@ -76,7 +73,7 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/beshakil">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=beshakil&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=beshakil&count_private=true&show_icons=true&theme=nightowl&rank_icon=github" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -89,17 +86,21 @@
       </p>
     </td>
   </tr>
-      <tr>
-    <td width="50%">
+</table>
+<div align=center>
+<table>
+     <tr width="100%">
+    <td width="100%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/beshakil">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=beshakil&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=beshakil&count_private=true&show_icons=true&theme=nightowl&rank_icon=github" alt="GitHub Stats" />
         </a>
       </p>
     </td>
-  </tr>
-</table>
+         </tr>
+         </table>
+         </div>
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
