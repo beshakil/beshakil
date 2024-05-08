@@ -33,6 +33,7 @@
 - 💬 Ask me about MERN stack and related technologies
 - ❤ Contributing to Open Source.
 - ⚡ Fun fact Football fanatic, Madridista
+- 💻 Visit my <a href="https://shakil.be" target="_blank"> Portfolio </a> for more details about me.
 - 📫 How to reach me **dev.shakilshajib@gmail.com**
 <div align="center">
   
