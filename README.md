@@ -33,10 +33,8 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Node.js, React, Next.js, MongoDB...** <br />
 :hearts: &emsp;I enjoy programming and sharing knowledge <br />
 :computer: &emsp;Most used line of code `console.log("hello world")` <br />
-- <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30"> Fun fact **World first developer was a women**
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me **dev.shakilshajib@gmail.com** & **beshakilahmed@gmail.com**
-- 📫 How to reach me **dev.shakilshajib@gmail.com**
 - ⚡ Fun fact Football fanatic, Madridista
+- 📫 How to reach me **dev.shakilshajib@gmail.com**
 <div align="center">
   
 <h2 align="center">⚒️ Things I code with ⚒️</h2>
